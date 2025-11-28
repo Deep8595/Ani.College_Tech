@@ -1,3 +1,4 @@
+https://microsoft.github.io/AI-For-Beginners/ for AI 
 After Fitting the Logistic Regression Model
 Evaluate the model -
                     Common evalution metrics:
